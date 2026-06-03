@@ -13,13 +13,7 @@ function NotificationCard({ notification }) {
   };
 
   return (
-    <div
-      style={{
-        border: "1px solid #ccc",
-        padding: "10px",
-        margin: "10px 0",
-      }}
-    >
+    <div className="notification-card">
       <h3>{notification.title}</h3>
 
       <p>{notification.message}</p>

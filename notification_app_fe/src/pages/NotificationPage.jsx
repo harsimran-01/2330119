@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import NotificationCard from "../components/NotificationCard";
 import { Log } from "../../../logging_middleware/logger";
+import "./NotificationPage.css";
 
 function NotificationPage() {
   const notifications = [
@@ -26,7 +27,7 @@ function NotificationPage() {
   }, []);
 
   return (
-    <div>
+    <div className="notification-container">
       <h1>Notifications</h1>
 
       {notifications.map((item) => (
