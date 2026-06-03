@@ -23,7 +23,6 @@ This approach helps in monitoring how users interact with the application.
 ![Folder Structure Screenshot](image.png)
 
 # Types of Logs Used
-
 Page Logs
 
 Generated when the Notification Page is loaded.
@@ -60,3 +59,5 @@ Log(
   "state",
   "Notification state updated"
 );
+
+........................
