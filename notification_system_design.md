@@ -7,4 +7,4 @@ The middleware sends logs to the provided API to track page loads, user interact
 # Folder Structure 
 
 
-![Folder Structure Screenshot](c:\Users\lenovo\Pictures\Screenshots\image.png)
+![Folder Structure Screenshot](image.png)
