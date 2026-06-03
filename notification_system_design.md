@@ -14,7 +14,9 @@ When a user clicks the Mark Read button, the notification status changes and ano
 This approach helps in monitoring how users interact with the application.
 
 # SCREENSHOTS 
-
+![Folder Structure Screenshot](E:\2330119\Screenshot 2026-06-03 145616.png)
+![Folder Structure Screenshot](E:\2330119\Screenshot 2026-06-03 145627.png)
+![Folder Structure Screenshot](E:\2330119\Screenshot 2026-06-03 145635.png)
 
 # Folder Structure 
 
