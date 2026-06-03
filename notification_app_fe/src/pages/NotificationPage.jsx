@@ -16,6 +16,7 @@ function NotificationPage() {
 
       const data =
         await fetchNotifications();
+        console.log(data);
 
       const sorted =
         prioritizeNotifications(data);
